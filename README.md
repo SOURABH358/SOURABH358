@@ -1,5 +1,19 @@
 [![Github](https://img.shields.io/github/followers/sourabh358?label=Follow&style=social)](https://github.com/sourabh358)  ![](https://visitor-badge.laobi.icu/badge?page_id=sourabh358.sourabh358)  
 ### Hi there 👋, I'm Sourabh Yadav  
+I am a self taught front end developer, currently working as a technology consultant at PWC.  
+
+I am practicing fullstack by building mern projects using nodejs, expressjs and mongodb. I am looking for any opportunity to use my skills and grow.  
+
+
+## Interest 
+- Web design 
+- frontend development
+- FullStack Development
+- MERN Stack 
+- Remote Work
+- Open Source
+
+Currenlty I am contributing more and more to open source to learn and interact with the fellow developers.  
 <br>
 <br>
 <br>
@@ -27,6 +41,10 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh358&show_icons=true&theme=tokyonight)  
+
+## Links
+Twitter - [Sourabh Yadav](https://twitter.com/Sourabh72673499)  
+FrontendMentor - [@SOURABH358](https://www.frontendmentor.io/profile/SOURABH358)
 
 <!--
 **SOURABH358/SOURABH358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
